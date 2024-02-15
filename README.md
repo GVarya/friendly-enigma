@@ -2,3 +2,5 @@
 ## answers
 * stars and moon
 * mirror
+* hole
+* train
